@@ -10,7 +10,7 @@ def preprocess_message(message):
     tokens = [word for word in tokens if word not in stopwords.words('english')]
     return ' '.join(tokens)
 
-def preprocess_data(file_path):
+def preprocess_text_data(file_path):
     nltk.download('stopwords')
     data = pd.read_csv(file_path, encoding='latin-1')
     data = data[['v1', 'v2']]
