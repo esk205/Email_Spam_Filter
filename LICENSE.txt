@@ -1,0 +1,3 @@
+Copyright (c) 2025 Michael Wynnychuk
+All rights reserved.
+This source code is for demonstration purposes only and may not be copied, reproduced, or used in other projects without explicit permission.
