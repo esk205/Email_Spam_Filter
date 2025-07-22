@@ -4,3 +4,8 @@
 #
 # The NLTK library already uses Bayes Theorem since Bayes Theorem is a popular way to do machine learning, so
 # for the sake of simplicity it is best to not reinvent the wheel and use that implementation.
+
+## License
+
+# This project is licensed under a custom "All Rights Reserved" license. It is intended for demonstration purposes only.
+
